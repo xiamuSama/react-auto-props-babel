@@ -14,7 +14,9 @@
       ]   
     ]
 `
-````for example````
+<br>
+`====for example====`
+<br>
 `
 "plugins": [
       [
